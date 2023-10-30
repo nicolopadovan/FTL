@@ -91,5 +91,3 @@ The system underscores the already complex relationship between quantum mechanic
 **Operational Concerns**
 
 Beyond the theoretical challenges, operationalizing such a system, given these implications, demands extreme caution. Any real-world implementation would need to address not only the technical hurdles but also the profound implications for our understanding of time, space, and reality.
-
-In light of these considerations, it is essential to approach the proposed FTL communication model with both curiosity and caution. While it presents a fascinating avenue for exploration, the potential ramifications necessitate rigorous scrutiny, interdisciplinary dialogue, and further empirical investigation.
